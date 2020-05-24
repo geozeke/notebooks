@@ -1,30 +1,30 @@
-# Introduction to Python using Jupyter Notebooks
+# Introduction to Python Using Jupyter Notebooks
 
 This is a collection of Jupyter Notebooks for teaching Python programming with an emphasis on the fundamentals of Cyber Operations.  It's not meant to be a complete Python textbook, but rather an organized reference guide to allow you to see interactive examples on specific Python topics.
 
 ## Topics
 
-0. Introduction
+1. Introduction
    * Using Jupyter notebooks
    * Your First Python Program
     
     
-1. Basic operations
+2. Basic operations
    * Variables, Assignment Statements, Expressions
    * Reading console input
    * Numeric Data Types
    * Operator Precedence
    * Strings
-   * Type Conversions and Rounding
+   * Type Conversions
    
    
-2. Functions and Objects
+3. Built-in Functions and Objects
    * Common Functions
-   * Object and Methods
-   * Formatting output (`.format()`)
+   * Objects and Methods
+   * Formatting output with `.format()`
    
    
-3. Branch Logic
+4. Branch Logic
    * Boolean Data Types
    * `if` Statements
    * `if` - `else` Statements
@@ -33,50 +33,50 @@ This is a collection of Jupyter Notebooks for teaching Python programming with a
    * Operator Precedence
    
    
-4. Iteration (Loops)
+5. Iteration (Loops)
    * `for` Loop
    * `while` Loop
    * Nested Loops
    * `break` and `continue`
    
 
-5. Functions
+6. User Defined Functions
    * Introduction
    * Defining Functions
    * Calling Functions
    * Arguments and Parameters
-   * Pass by Reference
    * Variable Scope
-   * Returning Multiple Values
    
    
-6. Lists, Dictionaries, Sets, Tuples
+7. Collections: Lists, Dictionaries, Sets, Tuples
    * Creating
    * Accessing Data
+   * Functions - Pass by Reference
+   * Functions - Returning Multiple Values
 
    
-7. File I/O
+8. File I/O
    * Modes: read (`'r'`), write (`'w'`), append(`'a'`)
    * Ways to Read: `read()`, `readline()`, `readlines()`
    * Writing and Closing: `write()`, `close()`
       
 
-8. Crypto
+9. Crypto
    * Hashing Strings
 
 
-9. Exception Handling
+10. Exception Handling
    * Catching exceptions
    * Raising exceptions
 
 
-10. Recursion
+11. Recursion
    * Introduction
    * Examples
 
 
-11. OOP
+12. OOP
    * User-defined Classes
 
 
-12. Misc Topics
+13. Misc Topics
