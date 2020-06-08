@@ -51,8 +51,8 @@ This is a collection of Jupyter Notebooks for teaching Python programming with a
 7. Collections: Lists, Dictionaries, Sets, Tuples
    * Creating
    * Accessing Data
-   * Functions - Pass by Reference
    * Functions - Returning Multiple Values
+   * Functions - Pass by Value; Pass by Reference
 
    
 8. File I/O
@@ -61,7 +61,7 @@ This is a collection of Jupyter Notebooks for teaching Python programming with a
    * Writing and Closing: `write()`, `close()`
       
 
-9. Crypto
+9. Hashing
    * Hashing Strings
 
 
