@@ -5,69 +5,70 @@ This is a collection of Jupyter Notebooks for teaching Python programming with a
 ## Topics
 
 1.    Introduction
-      * Using Jupyter notebooks
-      * Your First Python Program
+      * Using Jupyter Notebooks
+      * Your first Python program
     
     
 2.    Basic operations
-      * Variables, Assignment Statements, Expressions
+      * Variables, assignment statements, expressions
       * Reading console input
-      * Numeric Data Types
-      * Operator Precedence
+      * Numeric data types
+      * Operator precedence
       * Strings
-      * Type Conversions
+      * Type conversions
    
    
 3.    Built-in Functions and Objects
-      * Common Functions
-      * Objects and Methods
+      * Common functions
+      * Objects and methods
       * Formatting output with `.format()`
    
    
 4.    Branch Logic
-      * Boolean Data Types
-      * `if` Statements
-      * `if` - `else` Statements
-      * `if` - `elif` - `else` Statements
+      * Boolean data types
+      * `if` statements
+      * `if` - `else` statements
+      * `if` - `elif` - `else` statements
       * Logical operators (`and`, `or`, `not`)
-      * Operator Precedence
+      * Operator precedence
    
    
 5.    Iteration (Loops)
-      * `for` Loop
-      * `while` Loop
-      * Nested Loops
+      * `for` loop
+      * `while` loop
+      * Nested loops
       * `break` and `continue`
    
 
 6.    User Defined Functions
       * Introduction
-      * Defining Functions
-      * Calling Functions
-      * Arguments and Parameters
-      * Variable Scope
+      * Defining functions
+      * Calling functions
+      * Arguments and parameters
+      * Variable scope
    
    
 7.    Collections: Lists, Dictionaries, Sets, Tuples
       * Creating
-      * Accessing Data
-      * Functions - Returning Multiple Values
-      * Functions - Pass by Value; Pass by Reference
+      * Accessing data
+      * Functions - returning multiple values
+      * Functions - pass by value; pass by reference
 
    
 8.    File I/O
       * Modes: read (`'r'`), write (`'w'`), append(`'a'`)
-      * Ways to Read: `read()`, `readline()`, `readlines()`
-      * Writing and Closing: `write()`, `close()`
+      * Writing and closing: `write()`, `close()`
+      * Ways to read: `read()`, `readline()`, `readlines()`
       
 
 9.    Hashing
-      * Hashing Strings
+      * Hashing strings
 
 
 10.   Exception Handling
       * Catching exceptions
       * Raising exceptions
+   
    
 11.   Recursion
       * Introduction
@@ -75,7 +76,7 @@ This is a collection of Jupyter Notebooks for teaching Python programming with a
 
 
 12.   OOP
-      * User-defined Classes
+      * User defined classes
 
 
 13.   Misc Topics
