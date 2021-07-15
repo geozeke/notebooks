@@ -17,11 +17,11 @@ This is a collection of Jupyter Notebooks for teaching Python programming with a
     * Operator precedence
     * Strings
     * Type conversions
+    * Formatted String Literals (f-strings)
     <br/><br/>
 3. Built-in Functions and Objects
     * Common functions
     * Objects and methods
-    * Formatted String Literals (f-strings)
     <br/><br/>
 4. Branch Logic
     * Boolean data types
