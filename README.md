@@ -2,7 +2,7 @@
 
 This is a collection of Jupyter Notebooks for teaching Python programming with an emphasis on the fundamentals of Cyber Operations.  It's not meant to be a complete Python textbook, but rather an organized reference guide to allow you to see interactive examples on specific Python topics.
 
-*Python 3.8.x is currently shipping with Ubuntu 20.04.x. *
+*Python 3.8.x is currently shipping with Ubuntu 20.04.x.*
 
 ## Topics
 
