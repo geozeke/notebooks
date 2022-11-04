@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "notebooks"
+version = "0.1.0"
+description = "Jupyter notebooks for introductory python"
+authors = ["Peter Nardi <pete@nardi.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyter = "^1.0.0"
+
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^0.982"
+autopep8 = "^2.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
