@@ -9,6 +9,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.8"
 jupyter = "^1.0.0"
+notebook = "^6.5.2"
 
 
 [tool.poetry.group.dev.dependencies]
